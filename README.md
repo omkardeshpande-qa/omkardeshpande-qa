@@ -4,13 +4,13 @@ I am Omkar Deshpande.<br>I am working as Quality Analyst for 6 years.<br>Domains
 
 # 💻 Tech Stack:
 ![Test Automation](https://img.shields.io/badge/mysql-384959.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Selenium WebDriver](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Playwright](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Java](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![CI/CD Pipeline](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![BDD(Cucumber) Framework](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![REST Assured](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![TestNG](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Selenium WebDriver](https://img.shields.io/badge/postgres-%469110.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Playwright](https://img.shields.io/badge/postgres-%519755.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Java](https://img.shields.io/badge/postgres-%D3D3FF.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![CI/CD Pipeline](https://img.shields.io/badge/postgres-%F4A460.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![BDD(Cucumber) Framework](https://img.shields.io/badge/postgres-%42D674.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![REST Assured](https://img.shields.io/badge/postgres-%00520A.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![TestNG](https://img.shields.io/badge/postgres-%A0522D.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 <br>
 ![Quality Engineering](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Functional Testing](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
@@ -30,7 +30,7 @@ I am Omkar Deshpande.<br>I am working as Quality Analyst for 6 years.<br>Domains
 ![Responsible AI Testing](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Data Quality Validation](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Agentic QA](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-<br>color 
+<br>
 ![Tools & Platforms](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jira](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
