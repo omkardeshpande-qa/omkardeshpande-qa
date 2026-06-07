@@ -12,7 +12,7 @@ I am Omkar Deshpande.<br>I am working as Quality Analyst for 6 years.<br>Domains
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge\&logo=cucumber\&logoColor=white)
 ![REST%20Assured](https://img.shields.io/badge/REST_Assured-009688?style=for-the-badge)
 ![CI%2FCD](https://img.shields.io/badge/CI%2FCD-326CE5?style=for-the-badge\&logo=jenkins\&logoColor=white)
-![BDD Automation Framework](https://img.shields.io/badge/Automation_Frameworks-6A5ACD?style=for-the-badge)
+![BDD Automation Framework](https://img.shields.io/badge/BDD Automation_Frameworks-6A5ACD?style=for-the-badge)
 
 ## 🎯 Quality Engineering
 
