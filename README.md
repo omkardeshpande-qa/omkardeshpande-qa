@@ -14,8 +14,6 @@ I am Omkar Deshpande.<br>I am working as Quality Analyst for 6 years.<br>Domains
 ![CI%2FCD](https://img.shields.io/badge/CI%2FCD-326CE5?style=for-the-badge\&logo=jenkins\&logoColor=white)
 ![Automation Frameworks](https://img.shields.io/badge/Automation_Frameworks-6A5ACD?style=for-the-badge)
 
-<br>
-
 ## 🎯 Quality Engineering
 
 ![Quality Engineering](https://img.shields.io/badge/Quality_Engineering-0A66C2?style=for-the-badge)
@@ -25,8 +23,6 @@ I am Omkar Deshpande.<br>I am working as Quality Analyst for 6 years.<br>Domains
 ![UAT](https://img.shields.io/badge/UAT-4682B4?style=for-the-badge)
 ![Defect Management](https://img.shields.io/badge/Defect_Management-B22222?style=for-the-badge)
 ![Root Cause Analysis](https://img.shields.io/badge/Root_Cause_Analysis-8B4513?style=for-the-badge)
-
-<br>
 
 ## 🤖 AI Quality Assurance
 
@@ -39,8 +35,6 @@ I am Omkar Deshpande.<br>I am working as Quality Analyst for 6 years.<br>Domains
 ![Responsible AI Testing](https://img.shields.io/badge/Responsible_AI_Testing-4F46E5?style=for-the-badge)
 ![Data Quality Validation](https://img.shields.io/badge/Data_Quality_Validation-0891B2?style=for-the-badge)
 ![Agentic QA](https://img.shields.io/badge/Agentic_QA-7C3AED?style=for-the-badge)
-
-<br>
 
 ## 🛠️ Tools & Platforms
 
