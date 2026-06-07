@@ -4,7 +4,7 @@ Hi, I'm Omkar Deshpande 👋
 
 Senior QA Engineer with 7+ years of experience in Quality Engineering, AI/LLM Testing, Test Automation, API Testing, Database Testing, and Mobile Testing across FinTech, Banking, Pension, Security, and Gaming domains.
 
-![My Image](Experience.png)
+<img src="Experience" width="200" height="200">
 
 # 💻 Tech Stack:
 ## 🚀 Test Automation
