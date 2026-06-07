@@ -6,13 +6,13 @@ I am Omkar Deshpande.<br>I am working as Quality Analyst for 6 years.<br>Domains
 ## 🚀 Test Automation
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge\&logo=selenium\&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium_WebDriver-43B02A?style=for-the-badge\&logo=selenium\&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge\&logo=playwright\&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-EA4335?style=for-the-badge\&logo=testng\&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge\&logo=cucumber\&logoColor=white)
 ![REST%20Assured](https://img.shields.io/badge/REST_Assured-009688?style=for-the-badge)
 ![CI%2FCD](https://img.shields.io/badge/CI%2FCD-326CE5?style=for-the-badge\&logo=jenkins\&logoColor=white)
-![BDD Automation Framework](https://img.shields.io/badge/BDD_Automation_Frameworks-6A5ACD?style=for-the-badge)
+![BDD Automation Framework](https://img.shields.io/badge/BDD_Automation_Framework-6A5ACD?style=for-the-badge)
 
 ## 🎯 Quality Engineering
 
