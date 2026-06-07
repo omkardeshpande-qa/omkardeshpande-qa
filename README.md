@@ -3,42 +3,56 @@ I am Omkar Deshpande.<br>I am working as Quality Analyst for 6 years.<br>Domains
 
 
 # 💻 Tech Stack:
-![Test Automation](https://img.shields.io/badge/mysql-384959.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Selenium WebDriver](https://img.shields.io/badge/postgres-%469110.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Playwright](https://img.shields.io/badge/postgres-%519755.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Java](https://img.shields.io/badge/postgres-%D3D3FF.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![CI/CD Pipeline](https://img.shields.io/badge/postgres-%F4A460.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![BDD(Cucumber) Framework](https://img.shields.io/badge/postgres-%42D674.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![REST Assured](https://img.shields.io/badge/postgres-%00520A.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![TestNG](https://img.shields.io/badge/postgres-%A0522D.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+## 🚀 Test Automation
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge\&logo=selenium\&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge\&logo=playwright\&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-EA4335?style=for-the-badge\&logo=testng\&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge\&logo=cucumber\&logoColor=white)
+![REST%20Assured](https://img.shields.io/badge/REST_Assured-009688?style=for-the-badge)
+![CI%2FCD](https://img.shields.io/badge/CI%2FCD-326CE5?style=for-the-badge\&logo=jenkins\&logoColor=white)
+![Automation Frameworks](https://img.shields.io/badge/Automation_Frameworks-6A5ACD?style=for-the-badge)
+
 <br>
-![Quality Engineering](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Functional Testing](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Regression Testing](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![End-to-End Testing](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![UAT](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Defect Management](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Root Cause Analysis](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+
+## 🎯 Quality Engineering
+
+![Quality Engineering](https://img.shields.io/badge/Quality_Engineering-0A66C2?style=for-the-badge)
+![Functional Testing](https://img.shields.io/badge/Functional_Testing-007ACC?style=for-the-badge)
+![Regression Testing](https://img.shields.io/badge/Regression_Testing-1E90FF?style=for-the-badge)
+![End-to-End Testing](https://img.shields.io/badge/E2E_Testing-20B2AA?style=for-the-badge)
+![UAT](https://img.shields.io/badge/UAT-4682B4?style=for-the-badge)
+![Defect Management](https://img.shields.io/badge/Defect_Management-B22222?style=for-the-badge)
+![Root Cause Analysis](https://img.shields.io/badge/Root_Cause_Analysis-8B4513?style=for-the-badge)
+
 <br>
-![Quality Engineering](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![LLM Evaluation](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![AI Hallucination Testing](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Adversarial Prompt Testing](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Prompt Validation](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Golden Dataset Regression](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Response Quality Assessment](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Responsible AI Testing](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Data Quality Validation](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Agentic QA](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## 🤖 AI Quality Assurance
+
+![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-7B61FF?style=for-the-badge)
+![AI Hallucination Testing](https://img.shields.io/badge/AI_Hallucination_Testing-9333EA?style=for-the-badge)
+![Adversarial Prompt Testing](https://img.shields.io/badge/Adversarial_Prompt_Testing-DC2626?style=for-the-badge)
+![Prompt Validation](https://img.shields.io/badge/Prompt_Validation-2563EB?style=for-the-badge)
+![Golden Dataset Regression](https://img.shields.io/badge/Golden_Dataset_Regression-F59E0B?style=for-the-badge)
+![Response Quality Assessment](https://img.shields.io/badge/Response_Quality_Assessment-10B981?style=for-the-badge)
+![Responsible AI Testing](https://img.shields.io/badge/Responsible_AI_Testing-4F46E5?style=for-the-badge)
+![Data Quality Validation](https://img.shields.io/badge/Data_Quality_Validation-0891B2?style=for-the-badge)
+![Agentic QA](https://img.shields.io/badge/Agentic_QA-7C3AED?style=for-the-badge)
+
 <br>
-![Tools & Platforms](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Jira](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Jenkins](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Git & Github](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Postman](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Kafka](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Zookeeper](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Charles Proxy](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![JMeter](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![TestFlight](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+
+## 🛠️ Tools & Platforms
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge\&logo=apachekafka\&logoColor=white)
+![ZooKeeper](https://img.shields.io/badge/ZooKeeper-EA580C?style=for-the-badge)
+![Charles Proxy](https://img.shields.io/badge/Charles_Proxy-4B5563?style=for-the-badge)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge\&logo=apachejmeter\&logoColor=white)
+![TestFlight](https://img.shields.io/badge/TestFlight-0D96F6?style=for-the-badge\&logo=apple\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
