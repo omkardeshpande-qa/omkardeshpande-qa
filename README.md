@@ -8,7 +8,7 @@ Senior QA Engineer with 7+ years of experience in Quality Engineering, AI/LLM Te
 
 🏆 Designed and implemented a Hybrid BDD Automation Framework, **reducing regression effort by 60%** and enabling CI/CD-driven execution.
 
-🏆 **Automated 300+ UI and 100+ API test scenarios**, improving test coverage by **20%** and reducing manual testing effort by **30%**.
+🏆 **Automated 300+ UI** and **100+ API test scenarios**, improving test coverage by **20%** and reducing manual testing effort by **30%**.
 
 🏆 Improved data accuracy by **15%** and reduced workflow-related defects by **45%** through backend and database validation.
 
