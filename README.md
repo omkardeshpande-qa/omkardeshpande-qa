@@ -5,17 +5,11 @@ Hi, I'm Omkar Deshpande 👋
 Senior QA Engineer with 7+ years of experience in Quality Engineering, AI/LLM Testing, Test Automation, API Testing, Database Testing, and Mobile Testing across FinTech, Banking, Pension, Security, and Gaming domains.
 
 🏆 **Reduced AI hallucinations by 30%** through golden dataset regression and adversarial prompt validation.
-
 🏆 Designed and implemented a Hybrid BDD Automation Framework, **reducing regression effort by 60%** and enabling CI/CD-driven execution.
-
 🏆 **Automated 300+ UI and 100+ API test scenarios**, improving test coverage by **20%** and reducing manual testing effort by **30%**.
-
 🏆 Improved data accuracy by **15%** and reduced workflow-related defects by **45%** through backend and database validation.
-
 🏆 Led QA efforts for mobile applications serving **2.5M+ active users**, ensuring reliable Android and iOS releases.
-
-🏆 Supported the successful launch of products reaching **14.5M+ active accounts** and platforms handling **225K+ concurrent users**.
-
+🏆 Successful launch of products reaching **14.5M+ active accounts** and platforms handling **225K+ concurrent users**.
 🏆 Led a team of **6** testers, validating **25+** features across multiple releases and improving testing throughput by **40%**.
 
 
