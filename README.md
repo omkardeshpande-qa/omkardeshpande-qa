@@ -18,6 +18,7 @@ Senior QA Engineer with 7+ years of experience in Quality Engineering, AI/LLM Te
 
 🏆 Led a team of **6** testers, validating **25+** features across multiple releases and improving testing throughput by **40%**.
 
+![My Image](Experience.png)
 
 # 💻 Tech Stack:
 ## 🚀 Test Automation
